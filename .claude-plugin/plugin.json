@@ -1,0 +1,8 @@
+{
+  "name": "test-audit",
+  "version": "0.1.0",
+  "description": "Test-quality authoring gates, evidence-based audits and subsystem cleanup.",
+  "author": { "name": "Delusions6515" },
+  "repository": "https://github.com/Delusions6515/test-audit",
+  "license": "MIT"
+}

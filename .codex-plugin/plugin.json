@@ -1,0 +1,7 @@
+{
+  "name": "test-audit",
+  "version": "0.1.0",
+  "description": "Test-quality authoring gates, evidence-based audits and subsystem cleanup.",
+  "author": { "name": "Delusions6515" },
+  "skills": "./skills/"
+}

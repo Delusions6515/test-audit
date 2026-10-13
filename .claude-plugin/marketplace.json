@@ -1,0 +1,11 @@
+{
+  "name": "test-audit",
+  "owner": { "name": "Delusions6515" },
+  "plugins": [
+    {
+      "name": "test-audit",
+      "source": "./",
+      "description": "Portable test-quality audit skill."
+    }
+  ]
+}
